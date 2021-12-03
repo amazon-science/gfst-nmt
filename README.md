@@ -8,15 +8,18 @@ by Prafulla Choubey, Anna Currey, Prashant Mathur, and Georgiana Dinu.
 
 ```
 @inproceedings{choubey-etal-2021-gfst,
-    title = "{GFST:} {G}ender-Filtered Self-Training for More Accurate Gender in Translation",
+    title = "{GFST}: {G}ender-Filtered Self-Training for More Accurate Gender in Translation",
     author = "Choubey, Prafulla Kumar  and
       Currey, Anna  and
       Mathur, Prashant  and
       Dinu, Georgiana",
-    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
     month = nov,
     year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.123",
+    pages = "1640--1654",
 }
 ```
 
